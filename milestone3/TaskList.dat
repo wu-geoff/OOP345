@@ -1,0 +1,17 @@
+Power Supply | 4 | Motherboard | PSRemove
+PSRemove | 1 | Power Supply
+Motherboard | 3 | CPU | Remove Motherboard
+Remove Motherboard| 1 | Motherboard
+CPU | 5 | Memory | Remove CPU
+Remove CPU | 1 | CPU
+Memory | 4 | SSD | Remove Memory
+Remove Memory | 1 | Memory
+SSD | 4 | GPU | Remove SSD
+Remove SSD | 1 | SSD
+GPU | 3 | Test
+
+ |
+
+Test | 4 | Approve | Repair
+Repair
+Approve

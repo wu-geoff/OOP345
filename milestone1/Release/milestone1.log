@@ -1,0 +1,8 @@
+﻿  m1.cpp
+m1.cpp(40): warning C4018: '<': signed/unsigned mismatch
+m1.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 385 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  milestone1.vcxproj -> E:\Seneca\3rd semester\OOP 345\milestone1\Release\milestone1.exe
+  milestone1.vcxproj -> E:\Seneca\3rd semester\OOP 345\milestone1\Release\milestone1.pdb (Full PDB)

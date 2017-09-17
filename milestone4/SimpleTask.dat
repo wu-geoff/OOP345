@@ -1,0 +1,15 @@
+Install Power Supply|4|Install Motherboard|Remove Power Supply
+Remove Power Supply|2|Install Power Supply
+Install Motherboard|3|Install CPU|Remove Motherboard
+Remove Motherboard|1|Install Motherboard
+Install CPU|5|Install Memory|Remove CPU
+Remove CPU|1|Install CPU
+Install Memory|4|Install SSD|Remove Memory
+Remove Memory|1|Install Memory
+Install SSD|4|Install GPU|Remove SSD
+Remove SSD|1|Install SSD
+Install GPU|3|Test
+Remove GPU|1|Install GPU
+Test|4|Approve|Repair
+Approve
+Repair

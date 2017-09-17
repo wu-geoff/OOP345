@@ -1,0 +1,5 @@
+﻿  m1.cpp
+f:\seneca\3rd semester\oop 345\milestone1\milestone1\m1.cpp(35): warning C4018: '<': signed/unsigned mismatch
+f:\seneca\3rd semester\oop 345\milestone1\milestone1\m1.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  milestone1.vcxproj -> F:\Seneca\3rd semester\OOP 345\milestone1\Debug\milestone1.exe
+  milestone1.vcxproj -> F:\Seneca\3rd semester\OOP 345\milestone1\Debug\milestone1.pdb (Full PDB)
